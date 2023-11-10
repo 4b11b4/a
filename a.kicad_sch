@@ -15,7 +15,7 @@
     (property "Sheetname" "r" (at 151.765 86.9184 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "r.kicad_sch" (at 151.765 110.4396 0)
+    (property "Sheetfile" "sch/r.kicad_sch" (at 151.765 110.4396 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
